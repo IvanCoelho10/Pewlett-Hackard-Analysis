@@ -36,7 +36,7 @@ CREATE TABLE salaries (
 	);
 	
 CREATE TABLE dept_emp (
-	dept_no VARCHAR NOT NULL,
+	dept_no VARCHAR(255) NOT NULL,
 	emp_no INT NOT NULL,
 	from_date DATE NOT NULL,
 	to_date DATE NOT NULL,

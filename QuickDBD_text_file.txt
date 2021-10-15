@@ -5,7 +5,7 @@ dept_name vachar
 
 Employees
 -
-emp_no int pk fk - Employees.emp_no pk fk - Titles.emp_no
+emp_no int pk fk - Employees.emp_no fk - Titles.emp_no
 birth_date date
 first_name vachar
 last_name vachar
@@ -14,15 +14,15 @@ hire_date date
 
 Manager
 -
-dept_no vacharpk fk - Departments.dept_no
-emp_no int pk fk - Employees.emp_no
+dept_no vacharpk pk fk - Departments.dept_no
+emp_no int fk - Employees.emp_no
 from_date date
 to_date date
 
 Dept_Emp
 -
-dept_no vaRchar pk fk - Departments.dept_no
-emp_no int pk fk - Salaries.emp_no pk fk - Employees.emp_no
+emp_no int fk - Salaries.emp_no pk fk - Employees.emp_no
+dept_no vaRchar fk - Departments.dept_no
 from_date date
 to_date date
 
@@ -35,7 +35,7 @@ to_date date
 
 Titles
 -
-emp_no int pk fk - Salaries.emp_no
-title vachar
+emp_no int fk - Salaries.emp_no
+title vachar pk
 from_date date
 to_date date
