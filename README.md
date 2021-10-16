@@ -3,7 +3,7 @@
 
 ## Overview of the analysis: 
 
-### The purpose of this analysis was determine the number of retiring employess per title, and identify employees who are eligible to participate in a mentorship program.
+The purpose of this analysis was determine the number of retiring employess per title, and identify employees who are eligible to participate in a mentorship program.
 
 
 ## Results: 
