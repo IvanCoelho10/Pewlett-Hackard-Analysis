@@ -4,6 +4,7 @@
 ## Overview of the analysis: 
 
 The purpose of this analysis was determine the number of retiring employess per title, and identify employees who are eligible to participate in a mentorship program.
+First who were born between 1952 and 1955. Then, order by the employee number. After that it was remove these duplicates and keep only the most recent title of each employee.
 
 
 ## Results: 
@@ -13,12 +14,6 @@ who were born in the year 1965 and are able to participate through the program,a
 
 
 ## Summary: 
-
-
-# Mentor-Elegibility
-
-
-![mentor_eligibility png](https://user-images.githubusercontent.com/87731897/137596286-06ddb400-0146-4c10-a139-e92a59314ce3.png)
 
 
 ## Retirement titles who were born in 1952 and 1955
@@ -38,4 +33,9 @@ who were born in the year 1965 and are able to participate through the program,a
 
 ![retiring_titles](https://user-images.githubusercontent.com/87731897/137596316-5947f438-7ead-48d1-86c9-36a3c6df6e62.png)
 
+
+# Mentor-Elegibility
+
+
+![mentor_eligibility png](https://user-images.githubusercontent.com/87731897/137596286-06ddb400-0146-4c10-a139-e92a59314ce3.png)
 
