@@ -3,8 +3,7 @@
 
 ## Overview of the analysis: 
 
-### The purpose of this analysis was determine the number of retiring employess per title,
-and identify employees who are eligible to participate in a mentorship program.
+### The purpose of this analysis was determine the number of retiring employess per title, and identify employees who are eligible to participate in a mentorship program.
 
 
 ## Results: 
@@ -34,8 +33,7 @@ who were born in the year 1965 and are able to participate through the program,a
 ![unique_titles png](https://user-images.githubusercontent.com/87731897/137596320-118f63af-a74d-4643-9eb3-e98dc06b7d0c.png)
 
 
-## Retriving the number of employees by their most recent job title
-who are about to retire. 
+## Retriving the number of employees by their most recent job title who are about to retire. 
 
 
 ![retiring_titles](https://user-images.githubusercontent.com/87731897/137596316-5947f438-7ead-48d1-86c9-36a3c6df6e62.png)
